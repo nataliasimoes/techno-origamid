@@ -1,10 +1,10 @@
 {
-  "id": "speaker",
-  "nome": "Speaker",
-  "preco": 599,
+  "id": "senegal",
+  "nome": "Camisa Senegal",
+  "preco": 249,
   "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
   "estoque": 3,
-  "img": "./api/produtos/speaker/speaker-foto.jpg",
+  "img": "./api/produtos/senegal/senegal-foto.jpg",
   "reviews": [
     {
       "nome": "Rogério",

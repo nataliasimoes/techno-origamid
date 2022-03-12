@@ -1,10 +1,10 @@
 {
-  "id": "tablet",
-  "nome": "Tablet",
-  "preco": 899,
+  "id": "safrica",
+  "nome": "Camisa Africa do Sul",
+  "preco": 250,
   "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
-  "estoque": 2,
-  "img": "./api/produtos/tablet/tablet-foto.jpg",
+  "estoque": 3,
+  "img": "./api/produtos/safrica/safrica-foto.jpg",
   "reviews": [
     {
       "nome": "Rogério",

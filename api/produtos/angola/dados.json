@@ -1,0 +1,15 @@
+{
+  "id": "angola",
+  "nome": "Camisa Angola",
+  "preco": 500,
+  "descricao": "Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se a necessidade de renovação processual causa impacto indireto na reavaliação do orçamento setorial.",
+  "estoque": 12,
+  "img": "./api/produtos/angola/angola-foto.jpg",
+  "reviews": [
+    {
+      "nome": "Fábio",
+      "estrelas": 5,
+      "descricao": "Gostei muito do produto, tecido de excelente qualidade"
+    }
+  ]
+}
